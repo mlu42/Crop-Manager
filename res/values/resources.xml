@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="crops">
+        <item>Corn</item>
+    </array>
+    <array name="corntools">
+        <item>Maturity predictor</item>
+        <item>Grain yield estimator</item>
+        <item>Corn silage moisture</item>
+    </array>
+</resources>
